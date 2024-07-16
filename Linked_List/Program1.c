@@ -4,6 +4,9 @@ struct node {
     int data;
     struct node* next;
 };
+ 
+
+
 
 void display(struct node* ptr)
 {
